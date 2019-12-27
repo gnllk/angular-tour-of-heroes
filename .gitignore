@@ -5,6 +5,11 @@
 /dist-server
 /tmp
 /out-tsc
+.vs
+/[Bb]in
+/[Oo]bj
+/[Dd]ebug
+/[Rr]ealse
 
 # dependencies
 /node_modules
