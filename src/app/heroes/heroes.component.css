@@ -30,6 +30,13 @@
     color: white;
 }
 
+.heroes li a{
+    display: block;
+    height: 2.4em;
+    line-height: 2.4em;
+    text-decoration: none;
+}
+
 .heroes .badge {
     display: inline-block;
     color: white;
